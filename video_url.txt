@@ -1,0 +1,5 @@
+Player URL:
+https://xenon322.github.io/player/?list=https://raw.githubusercontent.com/xenon322/fe0270fb7c361838/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/xenon322/fe0270fb7c361838/refs/heads/master/github_master.m3u8

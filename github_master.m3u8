@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=700000,RESOLUTION=768x576
+https://raw.githubusercontent.com/xenon322/fe0270fb7c361838/refs/heads/master/576p/github_playlist_576p.m3u8?_cb=1770635485
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=852x480
+https://raw.githubusercontent.com/xenon322/fe0270fb7c361838/refs/heads/master/480p/github_playlist_480p.m3u8?_cb=1770635485
